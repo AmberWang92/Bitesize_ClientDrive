@@ -19,7 +19,6 @@ public class NetworkSpawner : NetworkBehaviour
             InvokeRepeating(nameof(SpawnObject), 0, spawnDelay);
             spawnerEnabled = true;
             counter++;
-
         }
     }
 

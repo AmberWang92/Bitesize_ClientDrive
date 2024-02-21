@@ -195,6 +195,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ingredient (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -337,6 +341,10 @@ PrefabInstance:
     - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
       propertyPath: m_Name
       value: Ingredient (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -681,6 +689,10 @@ PrefabInstance:
     - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
       propertyPath: m_Name
       value: Ingredient (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1274,10 +1286,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnPoint: {fileID: 1617985014}
   spawnPrefab: {fileID: 2911821362935296457, guid: 672aa14126abf456998b2598f80b69bb, type: 3}
-  poolPrefabs:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  poolPrefabs: []
   spawnDelay: 7
 --- !u!4 &1617985014
 Transform:
@@ -1412,6 +1421,10 @@ PrefabInstance:
     - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
       propertyPath: m_Name
       value: Ingredient (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1557,6 +1570,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ingredient (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1637,6 +1654,10 @@ PrefabInstance:
     - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
       propertyPath: m_Name
       value: Ingredient (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1897,7 +1918,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2060465722
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2286,6 +2307,10 @@ PrefabInstance:
     - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
       propertyPath: m_Name
       value: Ingredient
+      objectReference: {fileID: 0}
+    - target: {fileID: 8321201880322001125, guid: a6b33b41508134c09957e076f4d53415, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1702713463106468697, guid: a6b33b41508134c09957e076f4d53415, type: 3}
