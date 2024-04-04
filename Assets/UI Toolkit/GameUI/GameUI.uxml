@@ -17,7 +17,7 @@
                 </ui:VisualElement>
             </ui:VisualElement>
         </ui:VisualElement>
-        <ui:VisualElement name="JoinCodeHolder" style="flex-grow: 1; height: auto; flex-direction: row; justify-content: flex-start; align-items: auto; padding-top: 20px; padding-right: 20px; padding-left: 20px; padding-bottom: 20px; position: absolute; top: 3px; left: 326px; right: auto;">
+        <ui:VisualElement name="JoinCodeHolder" style="flex-grow: 1; height: auto; flex-direction: row; justify-content: center; align-items: center; padding-top: 20px; padding-right: 20px; padding-left: 20px; padding-bottom: 20px; position: absolute; top: auto; left: auto; right: auto; width: 235px; align-self: center;">
             <ui:VisualElement class="background" style="height: 61px; width: 192px; align-items: center;">
                 <ui:Label text="JoinCode" display-tooltip-when-elided="true" name="JoinCodeText" style="font-size: 30px; white-space: nowrap; -unity-text-align: middle-right; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; flex-grow: 1; width: 154px; text-overflow: clip; align-items: auto; justify-content: center; align-self: auto; flex-direction: row;" />
             </ui:VisualElement>
